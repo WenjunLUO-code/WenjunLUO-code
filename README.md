@@ -26,7 +26,7 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" alt=""/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=WenjunLUO-code&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" alt=""/>
 
 ### Contact with me 📝
 
