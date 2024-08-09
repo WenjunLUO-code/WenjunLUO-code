@@ -52,14 +52,17 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 
 ---
 
+### Visitors
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWenjunLUO-code%2FWenjunLUO-code&countColor=%23263759)
 
+---
 
 
   <h2 align="center"> Github Statistics 📈 </h2>
 
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WenjunLUO-code&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40"  alt=""/>
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WenjunLUO-code&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40&countColor=%23263759&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40"  alt=""/>
     </a>
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenjunLUO-code&theme=react&line_height=40&hide=css" alt=""/>
