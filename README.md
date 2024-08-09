@@ -2,7 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Information and Computational Science Student
+## Biography
+I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am currently pursuing a Bachelor's Degree in Mathematics at the South China University of Technology (SCUT), and will receive my Bachelor's Degree in 2025, and I have recently joined Dr.Liu's group as a research assistant at the University of Macau.
+
+---
+
+### Something about me
 
 - 👨‍💻 I’m currently working on control such as Digital control,Robotic control and System Identification  etc.
 - 📚 I’m currently learning everything about control.
@@ -13,9 +18,11 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+
+
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://y.qq.com/n/ryqq/profile/like/song)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31pbsddxmvbi5m5nofgcr22ofnju)
 
 ---
 
@@ -45,14 +52,17 @@
 
 ---
 
+
+
+
   <h2 align="center"> Github Statistics 📈 </h2>
 
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40"  alt=""/>
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WenjunLUO-code&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40"  alt=""/>
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css" alt=""/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenjunLUO-code&theme=react&line_height=40&hide=css" alt=""/>
     </a>
 </div>
 
