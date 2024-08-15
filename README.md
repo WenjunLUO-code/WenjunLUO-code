@@ -30,7 +30,7 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 
 ### Contact with me 📝
 
-<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />[[website](https://orcid.org/my-orcid?orcid=0009-0007-2738-5325)]
+<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />[[website](https://orcid.org/0009-0007-2738-5325)]
 <img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />[[E-mail](15070693073@163.com)]
 <br />
 
