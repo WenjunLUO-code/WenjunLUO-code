@@ -6,6 +6,9 @@
 I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am currently pursuing a Bachelor's Degree in Mathematics at the South China University of Technology (SCUT), and will receive my Bachelor's Degree in 2025, and I have recently joined Dr.Liu's group as a research assistant at the University of Macau.
 
 ---
+### Education
+- B.E. Dept. of Information and Computing Sciences, South China University Of Technology, Sep. 2021 to Jun. 2025.
+---
 
 ### 👨‍💻 Research Interests
 - <b>Data-driven model</b>:<br>
@@ -26,14 +29,13 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=WenjunLUO-code&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" alt=""/>
 
 ### Contact with me 📝
 
-<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />[[ORCID](https://orcid.org/0009-0007-2738-5325)]
-<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />[[E-mail](15070693073@163.com)]
-[[Zhihu](https://www.zhihu.com/people/xiao-jun-74-20)]
-[[CSDN](https://blog.csdn.net/weixin_67227805?spm=1000.2115.3001.5343)]
+- [ORCID](https://orcid.org/0009-0007-2738-5325)
+- [Zhihu](https://www.zhihu.com/people/xiao-jun-74-20)
+- [CSDN](https://blog.csdn.net/weixin_67227805?spm=1000.2115.3001.5343)
+- <img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />E-mail: 15070693073@163.com, 202166321122@mail.scut.edu.cn, wenjun_luo@outlook.com
 <br />
 
 ---
