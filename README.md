@@ -7,13 +7,13 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 
 ---
 
-### Something about me
-
-- 👨‍💻 I’m currently working on control such as Digital control, Robotic control, control theory, and System Identification  etc.
-- 📚 I’m currently learning something about control.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play basketball and run.
-
+### 👨‍💻 Research Interests
+- <b>Data-driven model</b>:<br>
+  Koopman Operator, System Identificaiton, etc.
+- <b>Robot control</b>:<br>
+  Path Planning, Obstacle Avoidance, Multi-robot Coordination, Learning-based control, etc.
+- <b>Unmanned Autonomous Systems</b>:<br>
+  Drones, Autonomous Vehicles or Quadruped Robots, etc.
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
