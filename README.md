@@ -32,8 +32,8 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 
 ### Contact with me 📝
 
-- [ORCID](https://orcid.org/0009-0007-2738-5325)
-- [Zhihu](https://www.zhihu.com/people/xiao-jun-74-20)
+- ![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png) [ORCID](https://orcid.org/0009-0007-2738-5325)
+- ![Zhihu](https://static.zhihu.com/heifetz/assets/apple-touch-icon-60.8e1e621a.png) [Zhihu](https://www.zhihu.com/people/xiao-jun-74-20)
 - [CSDN](https://blog.csdn.net/weixin_67227805?spm=1000.2115.3001.5343)
 - <img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />E-mail: 15070693073@163.com, 202166321122@mail.scut.edu.cn, wenjun_luo@outlook.com
 <br />
