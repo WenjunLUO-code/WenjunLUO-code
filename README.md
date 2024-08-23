@@ -33,9 +33,9 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 ### Contact with me 📝
 
 - ![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png) [ORCID](https://orcid.org/0009-0007-2738-5325)
-- ![Zhihu](https://static.zhihu.com/heifetz/assets/apple-touch-icon-60.8e1e621a.png) [Zhihu](https://www.zhihu.com/people/xiao-jun-74-20)
-- [CSDN](https://blog.csdn.net/weixin_67227805?spm=1000.2115.3001.5343)
-- <img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />E-mail: 15070693073@163.com, 202166321122@mail.scut.edu.cn, wenjun_luo@outlook.com
+- <img src="https://th.bing.com/th/id/R.bdf5ded2a67803a7d9772fd4fa1a5517?rik=%2fXuGq9MZvjyFHw&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2019%2f08-10%2f68795%2fwater_68795_698_698_.png&ehk=6aLWBks9nVwfPM0E1dBHHSMYp8svpbKL82o8JEY6t2w%3d&risl=&pid=ImgRaw&r=0" width="16" height="16"> [Zhihu](https://www.zhihu.com/people/xiao-jun-74-20)
+- <img src="https://csdnimg.cn/public/favicon.ico" width="16" height="16">[CSDN](https://blog.csdn.net/weixin_67227805?spm=1000.2115.3001.5343)
+- <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" width="16" height="16"> **E-mail**: 15070693073@163.com, 202166321122@mail.scut.edu.cn, wenjun_luo@outlook.com
 <br />
 
 ---
@@ -70,13 +70,13 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 
   <h2 align="center"> Github Statistics 📈 </h2>
 
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WenjunLUO-code&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40&countColor=%23263759&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40"  alt=""/>
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WenjunLUO-code&theme=react&line_height=40&hide=css" alt=""/>
-    </a>
+<div align="center"> 
+    <a href="https://github.com/WenjunLUO-code">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WenjunLUO-code&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40&countColor=%23263759" alt="WenjunLUO's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/WenjunLUO-code">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WenjunLUO-code&theme=react&line_height=40&hide=css" alt="WenjunLUO's Top Languages"/>
+  </a>
 </div>
 
 <br/>
