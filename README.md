@@ -59,9 +59,9 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 
 ---
 ### Publication
-[1] Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft. Peng Cheng, <b> Wenjun Luo </b> , Jiacheng Li, Chenjun Liu, Jason J. R. Liu. Submit for publication. <br>
-[2] Self-healing Control for Networked Systems Against Compound Cyber-attacks:A Twin-based Approach. Jiacheng Li, <b> Wenjun Luo </b>, Chenjun Liu, Jason J. R. Liu. Submit for publication. <br>
-
+[1] Peng Cheng, <b> Wenjun Luo </b> , Jiacheng Li, Chenjun Liu, Jason J. R. Liu, "Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft", Submit for publication,2024. <br>
+[2] Jiacheng Li, <b> Wenjun Luo </b>, Chenjun Liu, Jason J. R. Liu, "Self-healing Control for Networked Systems Against Compound Cyber-attacks:A Twin-based Approach", 2024 (brief). <br>
+[3] Jiacheng Li,<b> Wenjun Luo</b>, Jason J. R. Liu, and James Lam, " Twin-Based Cyber-Security Control for Swarm with Aggregation–Dispersion Ability ", 2024 (Conference).<br>
 
 ---
 
