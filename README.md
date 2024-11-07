@@ -11,10 +11,12 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 ---
 
 ### 👨‍💻 Research Interests
+- <b>Safety Control</b>:<br>
+  Control Barrier Function, etc.
 - <b>Data-driven model</b>:<br>
   Koopman Operator, System Identificaiton, etc.
 - <b>Robot control</b>:<br>
-  Path Planning, Obstacle Avoidance, Multi-robot Coordination, Learning-based control, etc.
+  Path Planning, Obstacle Avoidance, Multi-robot Coordination, Learning-based control, Sensor Fusion, etc.
 - <b>Unmanned Autonomous Systems</b>:<br>
   Drones, Autonomous Vehicles or Quadruped Robots, etc.
 ---
@@ -29,14 +31,13 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 
 ---
 
-
-### Contact with me 📝
-
+### My other Blogs
 - ![ORCID iD](https://orcid.org/sites/default/files/images/orcid_16x16.png) [ORCID](https://orcid.org/0009-0007-2738-5325)
 - <img src="https://th.bing.com/th/id/R.bdf5ded2a67803a7d9772fd4fa1a5517?rik=%2fXuGq9MZvjyFHw&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2019%2f08-10%2f68795%2fwater_68795_698_698_.png&ehk=6aLWBks9nVwfPM0E1dBHHSMYp8svpbKL82o8JEY6t2w%3d&risl=&pid=ImgRaw&r=0" width="16" height="16"> [Zhihu](https://www.zhihu.com/people/xiao-jun-74-20)
 - <img src="https://csdnimg.cn/public/favicon.ico" width="16" height="16">[CSDN](https://blog.csdn.net/weixin_67227805?spm=1000.2115.3001.5343)
+---
+### Contact with me 📝
 - <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" width="16" height="16"> **E-mail**: 15070693073@163.com, 202166321122@mail.scut.edu.cn, wenjun_luo@outlook.com
-<br />
 
 ---
 
