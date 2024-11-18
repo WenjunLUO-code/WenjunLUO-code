@@ -1,4 +1,4 @@
-# Hi there, I'm WenjunLUO  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm WenjunLUO，Welcome to my homepage！  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -7,7 +7,7 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 
 ---
 ### Education
-- B.E. Dept. of Information and Computing Sciences, South China University Of Technology, Sep. 2021 to Jun. 2025.
+- B.E. Dept. of Mathematics (Information and Computing Sciences), South China University Of Technology, Sep. 2021 to Jun. 2025.
 ---
 
 ### 👨‍💻 Research Interests
