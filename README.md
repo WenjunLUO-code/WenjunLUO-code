@@ -11,18 +11,18 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 ---
 
 ### 👨‍💻 Research Interests
-- <b>Safety Control</b>:<br>
-  Control Barrier Function, etc.
-- <b>Data-driven model</b>:<br>
+- <b> Multi-Intelligence Collaborative Control </b>.<br>
+- <b> Safety Control</b>:<br>
+  Control Barrier Function, Model Predictive Control(MPC), etc.
+- <b> Data-driven model</b>:<br>
   Koopman Operator, System Identificaiton, etc.
-- <b>Robot control</b>:<br>
+- <b> Robot control</b>:<br>
   Path Planning, Obstacle Avoidance, Multi-robot Coordination, Learning-based control, Sensor Fusion, etc.
-- <b>Unmanned Autonomous Systems</b>:<br>
+- <b> Unmanned Autonomous Systems</b>:<br>
   Drones, Autonomous Vehicles or Quadruped Robots, etc.
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 
 
 ### Spotify Playing 🎧
@@ -37,8 +37,8 @@ I was born in 2003 in Yongxin County, Ji'an City, Jiangxi Province. I am current
 - <img src="https://csdnimg.cn/public/favicon.ico" width="16" height="16">[CSDN](https://blog.csdn.net/weixin_67227805?spm=1000.2115.3001.5343)
 ---
 ### Contact with me 📝
-- <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" width="16" height="16"> **E-mail**: 15070693073@163.com, 202166321122@mail.scut.edu.cn, wenjun_luo@outlook.com
-
+- <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" width="16" height="16"> **E-mail**: 15070693073@163.com, 202166321122@mail.scut.edu.cn, wenjun_luo@outlook.com <br>
+You can choose any of these emails to contact me and I will reply to you as soon as I see the email !
 ---
 
 ### Languages and Tools 🛠
