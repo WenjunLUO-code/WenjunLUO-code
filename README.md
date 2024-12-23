@@ -67,6 +67,7 @@ You can choose any of these emails to contact me and I will reply to you as soon
 [3] Jiacheng Li,<b> Wenjun Luo</b>, Jason J. R. Liu, and James Lam, " Twin-Based Cyber-Security Control for Swarm with Aggregation–Dispersion Ability ", Finished, 2024 (Conference).<br>
 [4] Peng Cheng,<b> Wenjun Luo </b>, Chenjun Liu, Jiacheng Li, Jason J. R. Liu, Dapeng Li, Yan-Jun Liu, "Event-Based Saturation-Tolerant Prescribed Control of Rigid Spacecraft With Actuator Faults", Submit for publication, 2024.  <br>
 [5] Wenjie Zhou, Shuo Chen, Jiacheng Li, Chenjun Liu, <b> Wenjun Luo </b>, and Jason J. R. Liu, " Obstacle Avoidance Control for Cluster-Based Unmanned Aerial Vehicle Formation with Multiple Constraints", Submit for publication, 2024. <br>
+
 ---
 
 
