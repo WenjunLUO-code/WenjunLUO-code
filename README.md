@@ -62,6 +62,7 @@ You can choose any of these emails to contact me and I will reply to you as soon
 
 ---
 ### Publication
+
 [1] Peng Cheng, <b> Wenjun Luo </b> , Jiacheng Li, Chenjun Liu, Jason J. R. Liu, , Zhiguang Feng, "Fixed-Time Disturbance Observer-Based Prescribed Performance Control of Rigid Spacecraft", Submit for publication, 2024. <br>
 [2] Jiacheng Li, <b> Wenjun Luo </b>, Chenjun Liu, Jason J. R. Liu, James Lam, "Resilient Consensus for Networked Systems with  Hidden Nodes and Edges: Detection, Isolation, and    Control", Finished, 2024. <br>
 [3] Jiacheng Li,<b> Wenjun Luo</b>, Jason J. R. Liu, and James Lam, " Twin-Based Cyber-Security Control for Swarm with Aggregation–Dispersion Ability ", Accept, 2024 (Conference).<br>
