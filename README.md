@@ -71,6 +71,7 @@ You can choose any of these emails to contact me and I will reply to you as soon
 [6] Wenjie Zhou, Jiacheng Li, <b> Wenjun Luo </b>, Zhiyuan Zhang, Jason J. R. Liu and James Lam, "An improved APF Method for UAV Formation Control in Sudden Obstacle Environments", Finished, 2024 (Conference). <br>
 [7] Jiacheng Li, <b>Wenjun Luo</b>, Jason J. R. Liu, James Lam, et al, " Cloud-Based Security Control for UAV Swarm Against Complex FDI Attacks: From Twin to Physical", Submit for publication, 2025. <br>
 [8] Peng Cheng, <b> Wenjun Luo </b> , Jason J. R. Liu, Zhiguang Feng, "Dynamic Event-Triggered Fault-Tolerant Control of Rigid Spacecraft With Prescribed Performance", Submit for publication, 2024. <br>
+[9] Peng Cheng, <b> Wenjun Luo </b> , Jason J. R. Liu, Zhiguang Feng, "Fixed-Time Fault-Tolerant Control of Saturated Spacecraft With Full-State Guaranteed Performance", Submit for publication, 2025. <br>
 
 ---
 
